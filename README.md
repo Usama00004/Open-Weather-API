@@ -6,7 +6,9 @@ This project automates the extraction, transformation, and loading (ETL) of weat
 ---
 
 ## Architecture
-![Project Architecture]('https://github.com/Usama00004/Open-Weather-API/blob/main/Images/Image_1.png')  
+
+![Project Architecture](https://github.com/Usama00004/Open-Weather-API/blob/main/Images/Image_1.png)
+
 
 
 ---
