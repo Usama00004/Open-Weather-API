@@ -11,10 +11,4 @@
 11. Enable the port 8080 in EC2 to enable airflow
 12. Connecting VS code to EC2 instance
 13. Creating a DAG with name weather_dag.py
-14.
-15.
-16.
-17.
-18.
-19.
-20.
+
