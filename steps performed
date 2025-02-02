@@ -4,13 +4,13 @@
 4. Run a command 'sudo apt update'
 5. Run a command to install python 'sudo apt python3-pip'
 6. Create a virtual environment 'python3 -m venv airflow_venv'
-7. Activating the virtual environment source airflow venv/bin/activate 
-8. Installing  s3fs to interact with S3 bucket using command'pip install s3fs'
-9. 
-10.
-11.
-12.
-13.
+7. Active the virtual environment source airflow venv/bin/activate 
+8. Install  s3fs to interact with S3 bucket using command'pip install s3fs'
+9. Install apache airflow to to orchestrate the workflow 'pip install apache-airflow'
+10. Start standalone Airflow environment using command 'airflow standalone '
+11. Enable the port 8080 in EC2 to enable airflow
+12. Connecting VS code to EC2 instance
+13. Creating a DAG with name weather_dag.py
 14.
 15.
 16.
